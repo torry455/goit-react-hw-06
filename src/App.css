@@ -1,0 +1,14 @@
+#root {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+ul {
+  padding: 0;
+}
+
+.phonebook-list {
+  color: #57d75d;
+  text-align: center;
+  font-size: 56px;
+}
